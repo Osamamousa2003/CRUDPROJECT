@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CRUDPROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83157C13-3A78-4CEA-A4EB-AA24E8548945}|Service\\Service.csproj|d:\\crudproject\\service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83157C13-3A78-4CEA-A4EB-AA24E8548945}|Service\\Service.csproj|solutionrelative:service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B02EE-3ACA-421C-A520-ACB202F9B0F2}|CRUDTest\\CRUDTest.csproj|d:\\crudproject\\crudtest\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B02EE-3ACA-421C-A520-ACB202F9B0F2}|CRUDTest\\CRUDTest.csproj|solutionrelative:crudtest\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2210F09F-11F7-4C65-8F1D-FDB5CD2EA798}|ServiceContracts\\ServiceContracts.csproj|d:\\crudproject\\servicecontracts\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2210F09F-11F7-4C65-8F1D-FDB5CD2EA798}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83157C13-3A78-4CEA-A4EB-AA24E8548945}|Service\\Service.csproj|d:\\crudproject\\service\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83157C13-3A78-4CEA-A4EB-AA24E8548945}|Service\\Service.csproj|solutionrelative:service\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2210F09F-11F7-4C65-8F1D-FDB5CD2EA798}|ServiceContracts\\ServiceContracts.csproj|d:\\crudproject\\servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2210F09F-11F7-4C65-8F1D-FDB5CD2EA798}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2210F09F-11F7-4C65-8F1D-FDB5CD2EA798}|ServiceContracts\\ServiceContracts.csproj|d:\\crudproject\\servicecontracts\\dto\\personupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2210F09F-11F7-4C65-8F1D-FDB5CD2EA798}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27452C07-5288-4FAC-A334-2089219E67BB}|Entites\\Entites.csproj|d:\\crudproject\\entites\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27452C07-5288-4FAC-A334-2089219E67BB}|Entites\\Entites.csproj|solutionrelative:entites\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "D:\\CRUDPROJECT\\Service\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Service\\CountriesService.cs",
+              "ToolTip": "D:\\CRUDPROJECT\\Service\\CountriesService.cs",
+              "RelativeToolTip": "Service\\CountriesService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:11:16.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CRUDPROJECT\\Entites\\Person.cs",
+              "RelativeDocumentMoniker": "Entites\\Person.cs",
+              "ToolTip": "D:\\CRUDPROJECT\\Entites\\Person.cs",
+              "RelativeToolTip": "Entites\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T01:17:54.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonServiceTest.cs",
+              "DocumentMoniker": "D:\\CRUDPROJECT\\CRUDTest\\PersonServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTest\\PersonServiceTest.cs",
+              "ToolTip": "D:\\CRUDPROJECT\\CRUDTest\\PersonServiceTest.cs",
+              "RelativeToolTip": "CRUDTest\\PersonServiceTest.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAADgv6kBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:52:43.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\CRUDPROJECT\\Service\\PersonService.cs",
+              "RelativeDocumentMoniker": "Service\\PersonService.cs",
+              "ToolTip": "D:\\CRUDPROJECT\\Service\\PersonService.cs",
+              "RelativeToolTip": "Service\\PersonService.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAAAOMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:38:46.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IpersonService.cs",
+              "DocumentMoniker": "D:\\CRUDPROJECT\\ServiceContracts\\IpersonService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IpersonService.cs",
+              "ToolTip": "D:\\CRUDPROJECT\\ServiceContracts\\IpersonService.cs",
+              "RelativeToolTip": "ServiceContracts\\IpersonService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T01:32:48.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "D:\\CRUDPROJECT\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ToolTip": "D:\\CRUDPROJECT\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:51:52.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonUpdateRequest.cs",
+              "DocumentMoniker": "D:\\CRUDPROJECT\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "ToolTip": "D:\\CRUDPROJECT\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:37:48.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CRUDPROJECT\\CRUDEXAMPLE\\wwwroot\\StyleeSheet.css",
+      "PackagePath": "staticwebassets\\StyleeSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUDPROJECT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CRUDPROJECT.props",
+      "PackagePath": "build\\CRUDPROJECT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUDPROJECT.props",
+      "PackagePath": "buildMultiTargeting\\CRUDPROJECT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CRUDPROJECT.props",
+      "PackagePath": "buildTransitive\\CRUDPROJECT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
