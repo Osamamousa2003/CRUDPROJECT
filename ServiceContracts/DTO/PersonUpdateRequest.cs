@@ -29,7 +29,7 @@ namespace ServiceContracts.DTO
             return new Person()
             {  PersonID=PersonId,
                 PersonName = PersonName,
-                Email = Email,
+                Email = Email, 
                 DateofBirth = DateofBirth,
                 Gender = Gender.ToString(),
                 CountryID = CountryID,

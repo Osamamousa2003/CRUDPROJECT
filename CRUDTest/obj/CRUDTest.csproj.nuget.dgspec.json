@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj": {}
+    "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj": {}
   },
   "projects": {
-    "D:\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj": {
+    "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj",
+        "projectUniqueName": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj",
         "projectName": "CRUDTest",
-        "projectPath": "D:\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj",
+        "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj",
         "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-        "outputPath": "D:\\CRUDPROJECT\\CRUDTest\\obj\\",
+        "outputPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,14 +29,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CRUDPROJECT\\Entites\\Entites.csproj": {
-                "projectPath": "D:\\CRUDPROJECT\\Entites\\Entites.csproj"
+              "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj": {
+                "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj"
               },
-              "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj"
               },
-              "D:\\CRUDPROJECT\\Service\\Service.csproj": {
-                "projectPath": "D:\\CRUDPROJECT\\Service\\Service.csproj"
+              "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\Service.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "D:\\CRUDPROJECT\\Entites\\Entites.csproj": {
+    "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CRUDPROJECT\\Entites\\Entites.csproj",
+        "projectUniqueName": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj",
         "projectName": "Entites",
-        "projectPath": "D:\\CRUDPROJECT\\Entites\\Entites.csproj",
+        "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj",
         "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-        "outputPath": "D:\\CRUDPROJECT\\Entites\\obj\\",
+        "outputPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,14 +154,14 @@
         }
       }
     },
-    "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj": {
+    "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj",
+        "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj",
         "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-        "outputPath": "D:\\CRUDPROJECT\\ServiceContracts\\obj\\",
+        "outputPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -179,8 +179,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CRUDPROJECT\\Entites\\Entites.csproj": {
-                "projectPath": "D:\\CRUDPROJECT\\Entites\\Entites.csproj"
+              "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj": {
+                "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj"
               }
             }
           }
@@ -219,14 +219,14 @@
         }
       }
     },
-    "D:\\CRUDPROJECT\\Service\\Service.csproj": {
+    "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CRUDPROJECT\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\CRUDPROJECT\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-        "outputPath": "D:\\CRUDPROJECT\\Service\\obj\\",
+        "outputPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -244,8 +244,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj"
               }
             }
           }

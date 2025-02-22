@@ -20,3 +20,15 @@ D:\CRUDPROJECT\Entites\obj\Debug\net8.0\Entites.dll
 D:\CRUDPROJECT\Entites\obj\Debug\net8.0\refint\Entites.dll
 D:\CRUDPROJECT\Entites\obj\Debug\net8.0\Entites.pdb
 D:\CRUDPROJECT\Entites\obj\Debug\net8.0\ref\Entites.dll
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\bin\Debug\net8.0\Entites.deps.json
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\bin\Debug\net8.0\Entites.dll
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\bin\Debug\net8.0\Entites.pdb
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\obj\Debug\net8.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\obj\Debug\net8.0\Entites.AssemblyInfoInputs.cache
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\obj\Debug\net8.0\Entites.AssemblyInfo.cs
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\obj\Debug\net8.0\Entites.csproj.CoreCompileInputs.cache
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\obj\Debug\net8.0\Entites.sourcelink.json
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\obj\Debug\net8.0\Entites.dll
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\obj\Debug\net8.0\refint\Entites.dll
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\obj\Debug\net8.0\Entites.pdb
+C:\Users\osama\Desktop\CRUDPROJECT\Entites\obj\Debug\net8.0\ref\Entites.dll

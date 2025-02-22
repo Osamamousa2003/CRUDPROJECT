@@ -1,8 +1,12 @@
+using Service;
+using ServiceContracts;
 
-            var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
-            var app = builder.Build();
+builder.Services.AddSingleton<ICountriesService ,CountriesService >();
+builder.Services.AddSingleton<IpersonService, PersonService>();
 
+var app = builder.Build();
 if(builder.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
@@ -10,7 +14,5 @@ if(builder.Environment.IsDevelopment())
 app.UseStaticFiles();
 app.UseRouting();
 app.MapControllers();
-
-
-
-            app.Run();
+app.Run();
+ 

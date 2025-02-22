@@ -17,10 +17,33 @@ namespace Service
         private readonly List<Person> _person;
         private readonly ICountriesService _countriesService;
         
-        public PersonService()
+        public PersonService(bool initialize=true)
         {
             _person = new List<Person>();
             _countriesService = new CountriesService();
+            if(initialize)
+            {
+                
+                _person.Add(new Person() { PersonID = Guid.Parse("3706F10C-9594-4167-BFC7-AB09CC1D42DA"), PersonName = "Aguste", Email = "aleddy0@booking.com", DateofBirth = DateTime.Parse("1993-01-02"), Gender = "Male", Address = "0858 Novick Terrace", ReceiveNewsLetters = false, CountryID = Guid.Parse("000C76EB-62E9-4465-96D1-2C41FDB64C3B") });
+
+                _person.Add(new Person() { PersonID = Guid.Parse("4D0A697E-13EA-4AFE-A74B-CB56B2E04FD3"), PersonName = "Jasmina", Email = "jsyddie1@miibeian.gov.cn", DateofBirth = DateTime.Parse("1991-06-24"), Gender = "Female", Address = "0742 Fieldstone Lane", ReceiveNewsLetters = true, CountryID = Guid.Parse("32DA506B-3EBA-48A4-BD86-5F93A2E19E3F") });
+
+                _person.Add(new Person() { PersonID = Guid.Parse("6435FA03-2A39-413F-9651-63CCC3C268D3"), PersonName = "Kendall", Email = "khaquard2@arstechnica.com", DateofBirth = DateTime.Parse("1993-08-13"), Gender = "Male", Address = "7050 Pawling Alley", ReceiveNewsLetters = false, CountryID = Guid.Parse("32DA506B-3EBA-48A4-BD86-5F93A2E19E3F") });
+
+                _person.Add(new Person() { PersonID = Guid.Parse("33282BF7-2A97-4C23-A650-06A14AA9009E"), PersonName = "Kilian", Email = "kaizikowitz3@joomla.org", DateofBirth = DateTime.Parse("1991-06-17"), Gender = "Male", Address = "233 Buhler Junction", ReceiveNewsLetters = true, CountryID = Guid.Parse("DF7C89CE-3341-4246-84AE-E01AB7BA476E") });
+
+                _person.Add(new Person() { PersonID = Guid.Parse("E88E4569-9895-416A-9757-38E000056494"), PersonName = "Dulcinea", Email = "dbus4@pbs.org", DateofBirth = DateTime.Parse("1996-09-02"), Gender = "Female", Address = "56 Sundown Point", ReceiveNewsLetters = false, CountryID = Guid.Parse("DF7C89CE-3341-4246-84AE-E01AB7BA476E") });
+
+                _person.Add(new Person() { PersonID = Guid.Parse("A795E22D-FAED-42F0-B134-F3B89B8683E5"), PersonName = "Corabelle", Email = "cadams5@t-online.de", DateofBirth = DateTime.Parse("1993-10-23"), Gender = "Female", Address = "4489 Hazelcrest Place", ReceiveNewsLetters = false, CountryID = Guid.Parse("15889048-AF93-412C-B8F3-22103E943A6D") });
+
+                _person.Add(new Person() { PersonID = Guid.Parse("ADB2D9CB-5B18-4390-830F-C79C23ED16EA"), PersonName = "Faydra", Email = "fbischof6@boston.com", DateofBirth = DateTime.Parse("1996-02-14"), Gender = "Female", Address = "2010 Farragut Pass", ReceiveNewsLetters = true, CountryID = Guid.Parse("80DF255C-EFE7-49E5-A7F9-C35D7C701CAB") });
+
+                _person.Add(new Person() { PersonID = Guid.Parse("8ECE637D-C0DE-4F0A-8794-B16603F8CA93"), PersonName = "Oby", Email = "oclutheram7@foxnews.com", DateofBirth = DateTime.Parse("1992-05-31"), Gender = "Male", Address = "2 Fallview Plaza", ReceiveNewsLetters = false, CountryID = Guid.Parse("80DF255C-EFE7-49E5-A7F9-C35D7C701CAB") });
+
+                _person.Add(new Person() { PersonID = Guid.Parse("501218BC-1808-458B-A0B7-36BA8C5D4C04"), PersonName = "Seumas", Email = "ssimonitto8@biglobe.ne.jp", DateofBirth = DateTime.Parse("1999-02-02"), Gender = "Male", Address = "76779 Norway Maple Crossing", ReceiveNewsLetters = false, CountryID = Guid.Parse("80DF255C-EFE7-49E5-A7F9-C35D7C701CAB") });
+
+                _person.Add(new Person() { PersonID = Guid.Parse("A18F7F2A-A25D-4FB7-924F-535197B25FC3"), PersonName = "Freemon", Email = "faugustin9@vimeo.com", DateofBirth = DateTime.Parse("1996-04-27"), Gender = "Male", Address = "8754 Becker Street", ReceiveNewsLetters = false, CountryID = Guid.Parse("80DF255C-EFE7-49E5-A7F9-C35D7C701CAB") });
+            }
         }
         private PersonResponse COnVertPersonTOPerrsoRespones(Person person)
         {
@@ -76,38 +99,38 @@ namespace Service
 
             switch (searchBy)
             {
-                case nameof(Person.PersonName):
+                case nameof(PersonResponse.PersonName):
                     matchingPersons = allPersons.Where(temp =>
                     (!string.IsNullOrEmpty(temp.PersonName) ?
                     temp.PersonName.Contains(searchString, StringComparison.OrdinalIgnoreCase) : true)).ToList();
                     break;
 
-                case nameof(Person.Email):
+                case nameof(PersonResponse.Email):
                     matchingPersons = allPersons.Where(temp =>
                     (!string.IsNullOrEmpty(temp.Email) ?
                     temp.Email.Contains(searchString, StringComparison.OrdinalIgnoreCase) : true)).ToList();
                     break;
 
 
-                case nameof(Person.DateofBirth):
+                case nameof(PersonResponse.DateofBirth):
                     matchingPersons = allPersons.Where(temp =>
                     (temp.DateofBirth != null) ?
                     temp.DateofBirth.Value.ToString("dd MMMM yyyy").Contains(searchString, StringComparison.OrdinalIgnoreCase) : true).ToList();
                     break;
 
-                case nameof(Person.Gender):
+                case nameof(PersonResponse.Gender):
                     matchingPersons = allPersons.Where(temp =>
                     (!string.IsNullOrEmpty(temp.Gender) ?
                     temp.Gender.Contains(searchString, StringComparison.OrdinalIgnoreCase) : true)).ToList();
                     break;
 
-                case nameof(Person.CountryID):
+                case nameof(PersonResponse.CountryID):
                     matchingPersons = allPersons.Where(temp =>
                     (!string.IsNullOrEmpty(temp.Country) ?
                     temp.Country.Contains(searchString, StringComparison.OrdinalIgnoreCase) : true)).ToList();
                     break;
 
-                case nameof(Person.Address):
+                case nameof(PersonResponse.Address):
                     matchingPersons = allPersons.Where(temp =>
                     (!string.IsNullOrEmpty(temp.Address) ?
                     temp.Address.Contains(searchString, StringComparison.OrdinalIgnoreCase) : true)).ToList();

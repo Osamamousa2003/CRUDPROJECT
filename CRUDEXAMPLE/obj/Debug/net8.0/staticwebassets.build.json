@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TvFd8Ingc0reSvJrEhbdch8cZZm2qBhZXnUKJAQ0bAE=",
+  "Hash": "WuzRS7OGvE+GrCEq+o99MU5S5to7pZD+bOlwpJX5qLk=",
   "Source": "CRUDPROJECT",
   "BasePath": "_content/CRUDPROJECT",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CRUDPROJECT\\wwwroot",
       "Source": "CRUDPROJECT",
-      "ContentRoot": "D:\\CRUDPROJECT\\CRUDEXAMPLE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\wwwroot\\",
       "BasePath": "_content/CRUDPROJECT",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\CRUDPROJECT\\CRUDEXAMPLE\\wwwroot\\StyleeSheet.css",
+      "Identity": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\wwwroot\\StyleeSheet.css",
       "SourceId": "CRUDPROJECT",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CRUDPROJECT\\CRUDEXAMPLE\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\wwwroot\\",
       "BasePath": "_content/CRUDPROJECT",
       "RelativePath": "StyleeSheet.css",
       "AssetKind": "All",

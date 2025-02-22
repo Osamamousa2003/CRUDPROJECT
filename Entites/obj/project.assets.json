@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CRUDPROJECT\\Entites\\Entites.csproj",
+      "projectUniqueName": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj",
       "projectName": "Entites",
-      "projectPath": "D:\\CRUDPROJECT\\Entites\\Entites.csproj",
+      "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj",
       "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-      "outputPath": "D:\\CRUDPROJECT\\Entites\\obj\\",
+      "outputPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj",
+      "projectUniqueName": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj",
       "projectName": "ServiceContracts",
-      "projectPath": "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj",
+      "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj",
       "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-      "outputPath": "D:\\CRUDPROJECT\\ServiceContracts\\obj\\",
+      "outputPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CRUDPROJECT\\Entites\\Entites.csproj": {
-              "projectPath": "D:\\CRUDPROJECT\\Entites\\Entites.csproj"
+            "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj": {
+              "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj"
             }
           }
         }

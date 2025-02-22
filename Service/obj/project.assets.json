@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CRUDPROJECT\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "D:\\CRUDPROJECT\\Service\\Service.csproj",
+      "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-      "outputPath": "D:\\CRUDPROJECT\\Service\\obj\\",
+      "outputPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,8 +72,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj": {
-              "projectPath": "D:\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj"
+            "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj"
             }
           }
         }

@@ -15,7 +15,7 @@ namespace CRUDTest
 
         public CountriesServiceTest()
         {
-            _countriesService = new CountriesService();
+            _countriesService = new CountriesService(false);
         }
         [Fact]
         public void AddCountry_NullCountry()
