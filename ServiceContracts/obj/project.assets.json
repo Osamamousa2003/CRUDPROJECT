@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj",
+      "projectUniqueName": "C:\\Users\\osama\\Desktop\\ContactManager\\ServiceContracts\\ServiceContracts.csproj",
       "projectName": "ServiceContracts",
-      "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj",
+      "projectPath": "C:\\Users\\osama\\Desktop\\ContactManager\\ServiceContracts\\ServiceContracts.csproj",
       "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\obj\\",
+      "outputPath": "C:\\Users\\osama\\Desktop\\ContactManager\\ServiceContracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj": {
-              "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj"
+            "C:\\Users\\osama\\Desktop\\ContactManager\\Entites\\Entites.csproj": {
+              "projectPath": "C:\\Users\\osama\\Desktop\\ContactManager\\Entites\\Entites.csproj"
             }
           }
         }

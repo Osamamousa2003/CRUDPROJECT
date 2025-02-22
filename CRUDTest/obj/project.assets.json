@@ -5567,11 +5567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj",
+      "projectUniqueName": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDTest\\CRUDTest.csproj",
       "projectName": "CRUDTest",
-      "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj",
+      "projectPath": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDTest\\CRUDTest.csproj",
       "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDTest\\obj\\",
+      "outputPath": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5589,14 +5589,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj": {
-              "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj"
+            "C:\\Users\\osama\\Desktop\\ContactManager\\Entites\\Entites.csproj": {
+              "projectPath": "C:\\Users\\osama\\Desktop\\ContactManager\\Entites\\Entites.csproj"
             },
-            "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj": {
-              "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\ServiceContracts\\ServiceContracts.csproj"
+            "C:\\Users\\osama\\Desktop\\ContactManager\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "C:\\Users\\osama\\Desktop\\ContactManager\\ServiceContracts\\ServiceContracts.csproj"
             },
-            "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\Service.csproj"
+            "C:\\Users\\osama\\Desktop\\ContactManager\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\osama\\Desktop\\ContactManager\\Service\\Service.csproj"
             }
           }
         }

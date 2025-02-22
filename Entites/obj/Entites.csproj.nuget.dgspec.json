@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj": {}
+    "C:\\Users\\osama\\Desktop\\ContactManager\\Entites\\Entites.csproj": {}
   },
   "projects": {
-    "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj": {
+    "C:\\Users\\osama\\Desktop\\ContactManager\\Entites\\Entites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj",
+        "projectUniqueName": "C:\\Users\\osama\\Desktop\\ContactManager\\Entites\\Entites.csproj",
         "projectName": "Entites",
-        "projectPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\Entites.csproj",
+        "projectPath": "C:\\Users\\osama\\Desktop\\ContactManager\\Entites\\Entites.csproj",
         "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Entites\\obj\\",
+        "outputPath": "C:\\Users\\osama\\Desktop\\ContactManager\\Entites\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",

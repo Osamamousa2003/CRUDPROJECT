@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2SGBK0LJjWo=",
+  "dgSpecHash": "0SViW/UOtAA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDTest\\CRUDTest.csproj",
+  "projectFilePath": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDTest\\CRUDTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\osama\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\osama\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

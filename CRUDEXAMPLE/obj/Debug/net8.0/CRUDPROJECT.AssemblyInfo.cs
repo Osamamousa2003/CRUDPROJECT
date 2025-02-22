@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDPROJECT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8879a2afaef7cd132fd9e51cbbfc98d54f79c8af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65dac1b8359f5ce0f48b3d3fdd7ef765d8d37a3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDPROJECT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDPROJECT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
