@@ -1,8 +1,24 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\wwwroot\\StyleeSheet.css",
+      "Id": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\wwwroot\\StyleeSheet.css",
       "PackagePath": "staticwebassets\\StyleeSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\wwwroot\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\wwwroot\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUDPROJECT.Microsoft.AspNetCore.StaticWebAssets.props",

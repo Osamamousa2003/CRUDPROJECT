@@ -24,11 +24,11 @@ namespace Service
             if(initialize)
             {
                 
-                _person.Add(new Person() { PersonID = Guid.Parse("3706F10C-9594-4167-BFC7-AB09CC1D42DA"), PersonName = "Aguste", Email = "aleddy0@booking.com", DateofBirth = DateTime.Parse("1993-01-02"), Gender = "Male", Address = "0858 Novick Terrace", ReceiveNewsLetters = false, CountryID = Guid.Parse("000C76EB-62E9-4465-96D1-2C41FDB64C3B") });
+                _person.Add(new Person() { PersonID = Guid.Parse("3706F10C-9594-4167-BFC7-AB09CC1D42DA"), PersonName = "Aguste", Email = "osama@booking.com", DateofBirth = DateTime.Parse("1993-01-02"), Gender = "Male", Address = "0858 Novick Terrace", ReceiveNewsLetters = false, CountryID = Guid.Parse("000C76EB-62E9-4465-96D1-2C41FDB64C3B") });
 
-                _person.Add(new Person() { PersonID = Guid.Parse("4D0A697E-13EA-4AFE-A74B-CB56B2E04FD3"), PersonName = "Jasmina", Email = "jsyddie1@miibeian.gov.cn", DateofBirth = DateTime.Parse("1991-06-24"), Gender = "Female", Address = "0742 Fieldstone Lane", ReceiveNewsLetters = true, CountryID = Guid.Parse("32DA506B-3EBA-48A4-BD86-5F93A2E19E3F") });
+                _person.Add(new Person() { PersonID = Guid.Parse("4D0A697E-13EA-4AFE-A74B-CB56B2E04FD3"), PersonName = "Jasmina", Email = "osama@mousa.gov.cn", DateofBirth = DateTime.Parse("1991-06-24"), Gender = "Female", Address = "0742 Fieldstone Lane", ReceiveNewsLetters = true, CountryID = Guid.Parse("32DA506B-3EBA-48A4-BD86-5F93A2E19E3F") });
 
-                _person.Add(new Person() { PersonID = Guid.Parse("6435FA03-2A39-413F-9651-63CCC3C268D3"), PersonName = "Kendall", Email = "khaquard2@arstechnica.com", DateofBirth = DateTime.Parse("1993-08-13"), Gender = "Male", Address = "7050 Pawling Alley", ReceiveNewsLetters = false, CountryID = Guid.Parse("32DA506B-3EBA-48A4-BD86-5F93A2E19E3F") });
+                _person.Add(new Person() { PersonID = Guid.Parse("6435FA03-2A39-413F-9651-63CCC3C268D3"), PersonName = "Kendall", Email = "osamamousa@arstechnica.com", DateofBirth = DateTime.Parse("1993-08-13"), Gender = "Male", Address = "7050 Pawling Alley", ReceiveNewsLetters = false, CountryID = Guid.Parse("32DA506B-3EBA-48A4-BD86-5F93A2E19E3F") });
 
                 _person.Add(new Person() { PersonID = Guid.Parse("33282BF7-2A97-4C23-A650-06A14AA9009E"), PersonName = "Kilian", Email = "kaizikowitz3@joomla.org", DateofBirth = DateTime.Parse("1991-06-17"), Gender = "Male", Address = "233 Buhler Junction", ReceiveNewsLetters = true, CountryID = Guid.Parse("DF7C89CE-3341-4246-84AE-E01AB7BA476E") });
 

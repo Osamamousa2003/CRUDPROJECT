@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDPROJECT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41dd57145cd0b96215dbfa28efef8be5c74acd63")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDPROJECT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDPROJECT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

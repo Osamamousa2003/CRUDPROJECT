@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\",
+  "WorkspaceRootPath": "C:\\Users\\osama\\Desktop\\ContactManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\crudproject\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\contactmanager\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\crudproject\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\contactmanager\\crudexample\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|solutionrelative:crudexample\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\contactmanager\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\crudproject\\crudexample\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|solutionrelative:crudexample\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\contactmanager\\crudexample\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|solutionrelative:crudexample\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\crudproject\\crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|solutionrelative:crudexample\\views\\shared\\_gridcolumnheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\contactmanager\\crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|solutionrelative:crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83157C13-3A78-4CEA-A4EB-AA24E8548945}|Service\\Service.csproj|c:\\users\\osama\\desktop\\crudproject\\service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83157C13-3A78-4CEA-A4EB-AA24E8548945}|Service\\Service.csproj|c:\\users\\osama\\desktop\\contactmanager\\service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83157C13-3A78-4CEA-A4EB-AA24E8548945}|Service\\Service.csproj|solutionrelative:service\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\crudproject\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2210F09F-11F7-4C65-8F1D-FDB5CD2EA798}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\osama\\desktop\\contactmanager\\servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2210F09F-11F7-4C65-8F1D-FDB5CD2EA798}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\contactmanager\\crudexample\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|solutionrelative:crudexample\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|c:\\users\\osama\\desktop\\contactmanager\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45A5E40F-8C0B-4C5A-9F5B-62839E308A1C}|CRUDEXAMPLE\\CRUDPROJECT.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,89 +46,119 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\Views\\Persons\\Create.cshtml",
-              "RelativeDocumentMoniker": "CRUDEXAMPLE\\Views\\Persons\\Create.cshtml",
-              "ToolTip": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\Views\\Persons\\Create.cshtml",
-              "RelativeToolTip": "CRUDEXAMPLE\\Views\\Persons\\Create.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAHUAAAAGAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDEXAMPLE\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "CRUDEXAMPLE\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T02:13:30.078Z",
+              "WhenOpened": "2025-02-27T00:01:26.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_GridColumnHeader.cshtml",
-              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\Views\\Shared\\_GridColumnHeader.cshtml",
-              "RelativeDocumentMoniker": "CRUDEXAMPLE\\Views\\Shared\\_GridColumnHeader.cshtml",
-              "ToolTip": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\Views\\Shared\\_GridColumnHeader.cshtml",
-              "RelativeToolTip": "CRUDEXAMPLE\\Views\\Shared\\_GridColumnHeader.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Views\\Persons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDEXAMPLE\\Views\\Persons\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Views\\Persons\\Delete.cshtml",
+              "RelativeToolTip": "CRUDEXAMPLE\\Views\\Persons\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T01:43:25.932Z",
+              "WhenOpened": "2025-02-26T23:58:26.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PersonService.cs",
-              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\PersonService.cs",
-              "RelativeDocumentMoniker": "Service\\PersonService.cs",
-              "ToolTip": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\Service\\PersonService.cs",
-              "RelativeToolTip": "Service\\PersonService.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAswHcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:40:53.37Z",
-              "EditorCaption": ""
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDEXAMPLE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDEXAMPLE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T18:05:44.255Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PersonsController.cs",
-              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\Controllers\\PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "CRUDEXAMPLE\\Controllers\\PersonsController.cs",
-              "ToolTip": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\Controllers\\PersonsController.cs*",
+              "ToolTip": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Controllers\\PersonsController.cs*",
               "RelativeToolTip": "CRUDEXAMPLE\\Controllers\\PersonsController.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwJsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:58:32.602Z",
+              "WhenOpened": "2025-02-26T18:04:47.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\Views\\Persons\\Index.cshtml",
-              "RelativeDocumentMoniker": "CRUDEXAMPLE\\Views\\Persons\\Index.cshtml",
-              "ToolTip": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\Views\\Persons\\Index.cshtml",
-              "RelativeToolTip": "CRUDEXAMPLE\\Views\\Persons\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Views\\Persons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDEXAMPLE\\Views\\Persons\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Views\\Persons\\Edit.cshtml",
+              "RelativeToolTip": "CRUDEXAMPLE\\Views\\Persons\\Edit.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAACsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T23:56:29.771Z",
+              "WhenOpened": "2025-02-26T18:03:54.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\ContactManager\\Service\\PersonService.cs",
+              "RelativeDocumentMoniker": "Service\\PersonService.cs",
+              "ToolTip": "C:\\Users\\osama\\Desktop\\ContactManager\\Service\\PersonService.cs",
+              "RelativeToolTip": "Service\\PersonService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:59:21.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\ContactManager\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ToolTip": "C:\\Users\\osama\\Desktop\\ContactManager\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:59:43.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Views\\Persons\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDEXAMPLE\\Views\\Persons\\Create.cshtml",
+              "ToolTip": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Views\\Persons\\Create.cshtml",
+              "RelativeToolTip": "CRUDEXAMPLE\\Views\\Persons\\Create.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T02:13:30.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Program.cs",
               "RelativeDocumentMoniker": "CRUDEXAMPLE\\Program.cs",
-              "ToolTip": "C:\\Users\\osama\\Desktop\\CRUDPROJECT\\CRUDEXAMPLE\\Program.cs",
+              "ToolTip": "C:\\Users\\osama\\Desktop\\ContactManager\\CRUDEXAMPLE\\Program.cs",
               "RelativeToolTip": "CRUDEXAMPLE\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:17:12.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T15:17:12.794Z"
             }
           ]
         }
